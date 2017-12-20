@@ -13,5 +13,5 @@ int main(void)
 	Database.Add(510212881,Employee("Adam Nowak","storekeeper",54)); 	//Add second employee: name: Adam Nowak, position: storekeeper, age: 54
 	Database.Add(730505129,Employee("Anna Zaradna","secretary",32)); 	//Add third employee: name: Anna Zaradna, position: secretary, age: 32
 
-	cout << Database << endl;							//Print databese
-
+	cout << Database << endl;							//Print databese;
+//testttttt
