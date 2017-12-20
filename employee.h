@@ -14,6 +14,6 @@ class Employee{
 		position=position2;
 		age=age2;
 	}
-
-
+	~Employee()
+	{}
 };
